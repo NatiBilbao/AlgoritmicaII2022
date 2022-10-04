@@ -67,6 +67,8 @@ int main() {
     isThereWord("Julio");
     insertWord("Carlos");
     isThereWord("Carlos");
+    insertWord("Andrea");
+    isThereWord("Andrea");
     trieDelete("Cris");
     trieDelete("Julio");
     isThereWord("Cris");
