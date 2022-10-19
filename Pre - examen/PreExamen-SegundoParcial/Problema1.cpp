@@ -20,9 +20,9 @@ bool bs() {
     return false;
 }
 
-int main(){
-    while(scanf("%d", &x) == 1 && x){
-        if(bs()){
+int main() {
+    while (scanf("%d", &x) == 1 && x) {
+        if (bs()) {
             cout << "true" << endl;
         } else {
             cout << "false" << endl;

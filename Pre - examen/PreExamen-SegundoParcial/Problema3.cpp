@@ -43,13 +43,13 @@ int bs() {
 
 int main() {
     int t;
-    cin>>t;
-    while(t--) {
+    cin >> t;
+    while (t--) {
         cin >> numeroEtiquetas >> persona;
-        for(int i=0;i<numeroEtiquetas;i++) {
-            cin>>etiquetas[i];
+        for (int i = 0; i < numeroEtiquetas; i++) {
+            cin >> etiquetas[i];
         }
-        sort(etiquetas,etiquetas+numeroEtiquetas);
-        cout<<bs()<<endl;
+        sort(etiquetas, etiquetas + numeroEtiquetas);
+        cout << bs() << endl;
     }
 }
