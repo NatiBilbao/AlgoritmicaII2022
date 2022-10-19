@@ -14,3 +14,6 @@ Cada algoritmo y/o estructura de datos contiene un archivo **README** separado d
 ## Programación Dinámica
 - [Digit Dp](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Programacion_dinamica/DigitDp)
 - [Subset Sum](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Programacion_dinamica/SubsetSum)
+
+## Teoria de grafos
+- [Kruskal](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Teoria_de_grafos/Kruskal)
