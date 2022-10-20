@@ -5,3 +5,8 @@ Es un algoritmo de búsqueda que encuentra la posición de un valor en un array 
 La búsqueda binaria es computada en el peor de los casos en un tiempo logarítmico, realizando O ( log ⁡ n ) comparaciones, donde n es el número de elementos del arreglo y log es el logaritmo. La búsqueda binaria requiere solamente O(1) en espacio, es decir, que el espacio requerido por el algoritmo es el mismo para cualquier cantidad de elementos en el array. Aunque estructuras de datos especializadas en la búsqueda rápidas como las tablas hash pueden ser más eficientes, la búsqueda binaria se aplica a un amplio rango de problemas de búsqueda.
 
 ![BÚSQUEDA BINARIA](https://programacionpython80889555.files.wordpress.com/2021/12/ejemplo.png)
+
+## Código base
+-  [BynarySearch](binarySearch.cpp) - _C++_
+-  [PrimerMayor](primerMayor.cpp) - _C++_
+-  [PrimerMenor](primeroMenor.cpp) - _C++_

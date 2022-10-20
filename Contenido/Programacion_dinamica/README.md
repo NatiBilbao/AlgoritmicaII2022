@@ -4,6 +4,6 @@ se encuentran un archivo **README** donde se da una breve explicación del funci
 base del mismo en distintos lenguajes de programación, algunos ejemplos de aplicación, incluyendo también enlaces a páginas web y
 videos que desarrollan más los conceptos de cada uno.
 
-
-* [Digit Dp](DigitDp)
-* [Subset Sum](SubsetSum)
+## Código base
+- [Digit Dp](DigitDp)
+- [Subset Sum](SubsetSum)
