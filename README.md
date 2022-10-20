@@ -9,7 +9,8 @@ Cada algoritmo y/o estructura de datos contiene un archivo **README** separado d
 -  [Segment Tree](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Estructura_de_datos/Segment_tree)
 -  [Trie](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Estructura_de_datos/Trie)
 
-## Bactracking
+## Backtracking
+- [Backtracking](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Backtracking)
 
 ## Búsqueda binaria
 - [Búsqueda binaria](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Busqueda_binaria)
