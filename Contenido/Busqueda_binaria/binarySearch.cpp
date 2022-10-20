@@ -1,50 +1,41 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-int n;
-int v[100010];
-bool f(int k) {
-    for(int i=1;i<=n;i++) {
-        if(v[i]-v[i-1]>k) {
-            return false;
-        }
-        if(v[i]-v[i-1]==k) {
-            k--;
-        }
-    }
-    return true;
+int n, x;
+int arreglo[100000+1];
+
+bool f(int mid) {
+    return x > arreglo[mid];
 }
 
 
 int binarySearch() {
-    long long left  = 0;
-    long long right = 2*v[n];  // ojo
-    long long answer = right;
-    while( left < right - 1 ) {
-        long long mid = left +(right -left)/2;
-        if(f(mid)) {
-            answer = mid;
-            right = mid;
+    int ini  = 0;
+    int fin = n;
+    int ans = -1;
+    while(fin - ini > 1) {
+        int mid = (fin + ini)/2;
+        if(x > arreglo[mid]) {    //la izquierda es mas pequena que mid
+            ini = mid + 1;
         }
         else{
-            left = mid;
+            if(x < arreglo[mid]){    //la derecha es mas pequeno que mid
+                fin = mid - 1;
+            }else{      // el medio es igual al numero
+                ans = mid;
+                break;
+            }
         }
     }
-    return answer;
+    return ans;
 }
 
-
-
-
 int main() {
-    int t; cin>>t; int cases = 1;
-    while(t--) {
-        cin>>n;
-        // v[0] sera 0 que significa el piso;
-        for(int i=1;i<=n;i++) {
-            cin>>v[i];
-        }
-        cout<<"Case "<<cases++<<": "<<binarySearch()<<endl;
+    cin >> n;
+    for(int i = 0; i < n; i ++) {
+        cin>>arreglo[i];
     }
+    cin >> x;
+    cout<<binarySearch()<<endl;
     return 0;
 }
