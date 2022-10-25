@@ -6,4 +6,7 @@ videos que desarrollan más los conceptos de cada uno.
 
 ## Código base
 - [Digit Dp](DigitDp)
+- [Edit Distance](EditDistance)
+- [LIS](LIS)
+- [Rod Cutting](RodCutting)
 - [Subset Sum](SubsetSum)
