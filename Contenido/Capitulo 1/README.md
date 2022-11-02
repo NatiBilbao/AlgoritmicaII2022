@@ -1,3 +1,5 @@
+# CAPITULO 1
+
 Competencias Conceptuales:
 
 - La importancia del estudio de la complejidad de un algoritmo.

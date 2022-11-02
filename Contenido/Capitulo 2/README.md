@@ -1,3 +1,5 @@
+# CAPITULO 2
+
 Competencias Conceptuales:
 
 - La importancia de los algoritmos de fuerza bruta.
