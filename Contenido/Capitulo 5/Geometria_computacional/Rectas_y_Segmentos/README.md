@@ -7,4 +7,4 @@ el segmento es un fragmento de la recta que está comprendido entre dos puntos, 
 dado dos puntos A y B, se llama segmento AB a la intersección de la semirrecta de origen A que contiene al punto B con 
 la semirrecta de origen B que contiene al punto A.
 
-![Rectas y segmentos]()
+![Rectas y segmentos](https://1.bp.blogspot.com/-WxmMOtkGFFA/WK3aoNx0moI/AAAAAAAAZ2o/XYDe5v7lqXcArr89sUyRye613IKt6XevwCLcB/s1600/Segmentos.png)

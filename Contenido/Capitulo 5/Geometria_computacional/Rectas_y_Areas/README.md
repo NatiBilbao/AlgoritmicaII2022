@@ -7,4 +7,4 @@ El área es un concepto métrico que puede permitir asignar una medida a la exte
 matemáticas como unidades de medida denominadas unidades de superficie. El área es un concepto métrico que requiere 
 la especificación de una medida de longitud.
 
-![Rectas y areas]()
+![Rectas y areas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIqb-IMX4DfVg9LskhyUldMg-wJ3IO0qk3g&usqp=CAU)
