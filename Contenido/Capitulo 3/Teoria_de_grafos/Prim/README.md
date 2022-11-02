@@ -9,3 +9,7 @@ Si el grafo no es conexo, entonces el algoritmo encontrará el árbol recubridor
 que forman dicho grafo no conexo. 
 
 ![Prim](https://sites.google.com/site/complejidadalgoritmicaes/_/rsrc/1365691651661/prim/7.png)
+
+## Código base
+
+- [Prim](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%203/Teoria_de_grafos/Prim/prim.cpp) - _C++_
