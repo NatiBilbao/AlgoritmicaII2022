@@ -34,3 +34,8 @@ Cada algoritmo y/o estructura de datos contiene un archivo **README** separado d
 
 # CAPITULO 5
 ## Geometria computacional
+- [Convex Hull](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Convex_Hull)
+- [Polígonos](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Poligonos)
+- [Puntos y Vectores](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Puntos_y_Vectores)
+- [Rectas y Áreas](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Rectas_y_Areas)
+- [Rectas y Segmentos](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Rectas_y_Segmentos)
