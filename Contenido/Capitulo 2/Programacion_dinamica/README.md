@@ -5,8 +5,8 @@ base del mismo en distintos lenguajes de programación, algunos ejemplos de apli
 videos que desarrollan más los conceptos de cada uno.
 
 ## Código base
-- [Digit Dp](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 2/Programacion_dinamica/DigitDp)
-- [Edit Distance](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 2/Programacion_dinamica/EditDistance)
-- [LIS](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 2/Programacion_dinamica/LIS)
-- [Rod Cutting](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 2/Programacion_dinamica/RodCutting)
-- [Subset Sum](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 2/Programacion_dinamica/SubsetSum)
+- [Digit Dp](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/DigitDp)
+- [Edit Distance](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/EditDistance)
+- [LIS](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/LIS)
+- [Rod Cutting](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/RodCutting)
+- [Subset Sum](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/SubsetSum)
