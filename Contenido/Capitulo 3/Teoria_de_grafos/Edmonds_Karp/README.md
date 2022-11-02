@@ -9,3 +9,6 @@ búsqueda en anchura, ya que dejamos que los bordes tengan unidad de longitud.
 Otra propiedad de este algoritmo es que el largo del camino aumentante más corto se incrementa monotonamente.
 
 ![Ednonds karp](https://complex-systems-ai.com/wp-content/uploads/2020/09/ek.jpg)
+
+## Código base
+- [Edmonds karp](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%203/Teoria_de_grafos/Edmonds_Karp/edmondsKarp.cpp) - _C++_
