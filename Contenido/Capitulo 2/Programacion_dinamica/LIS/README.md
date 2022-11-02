@@ -8,3 +8,7 @@ Hay que tener en cuenta que el problema se dirige específicamente subsecuencias
 no se requiere que las subsecuencias ocupen posiciones consecutivas dentro de las secuencias originales.
 
 ![LIS](https://www.includehelp.com/icp/Images/longest-increasing-subsequence-4.jpg)
+
+## Código base
+
+- [Lis](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%202/Programacion_dinamica/LIS/lis.cpp) - _C++_
