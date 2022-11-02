@@ -7,3 +7,7 @@ Dado un conjunto de números enteros no negativos y una suma de valores. Subset 
 > **(x, y)**= 'x' es el _**número de elementos**_,'y' es la suma _**requerida**_ 
 
 ![SUBSET SUM](https://raw.githubusercontent.com/AleS900/prueba/master/assets/subsetsum.png)
+
+## Código base
+
+- [Subset sum](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/SubsetSum)
