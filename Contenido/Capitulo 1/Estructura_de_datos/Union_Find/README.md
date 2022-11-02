@@ -4,4 +4,4 @@ Poniendolo en palabras simples, se almacenan conjuntos de elementos que no choca
 
 ![Union find](https://i1.wp.com/www.mathblog.dk/files/2012/06/disjointset_graphexample1.png?ssl=1)
 ## Código base
--  [Union find](unionFind.cpp) - _C++_
+-  [Union find](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 1/Estructura_de_datos/Union_Find/unionFind.cpp) - _C++_

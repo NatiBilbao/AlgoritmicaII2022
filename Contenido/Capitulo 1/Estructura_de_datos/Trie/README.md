@@ -4,6 +4,6 @@ Para ponerlo en palabras simples, podemos usar el Trie como un diccionario, en e
 ![Trie](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/1024px-Trie_example.svg.png)
 
 ## Código base
--  [Trie](trie_array.cpp) - _C++_
--  [Trie con array](trie_array.cpp) - _C++_
--  [Trie con mapa](trie_map.cpp) - _C++_
+-  [Trie](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 1/Estructura_de_datos/Trie/trie_array.cpp) - _C++_
+-  [Trie con array](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 1/Estructura_de_datos/Trie/trie_array.cpp) - _C++_
+-  [Trie con mapa](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 1/Estructura_de_datos/Trie/trie_map.cpp) - _C++_

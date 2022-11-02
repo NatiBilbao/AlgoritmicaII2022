@@ -4,5 +4,5 @@ La teoría de grafos tiene sus fundamentos en las matemáticas discretas y de la
 En la presente carpeta se encuentran distintos algoritmos acerca de la ***Teoría de Grafos***; además que en la misma se encuentran un archivo **README** donde se da una breve explicación del funcionamiento de cada algoritmo; se indica además el código base del mismo en distintos lenguajes de programación, algunos ejemplos de aplicación, incluyendo también enlaces a páginas web y videos que desarrollan más los conceptos de cada uno.
 
 ## Código base
-- [Floyd Warshall](FloydWarshall)
-- [Kruskal](Kruskal)
+- [Floyd Warshall](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 3/Teoria_de_grafos/Floyd_Warshall)
+- [Kruskal](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 3/Teoria_de_grafos/Kruskal)
