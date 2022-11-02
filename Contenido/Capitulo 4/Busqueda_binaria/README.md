@@ -7,6 +7,6 @@ La búsqueda binaria es computada en el peor de los casos en un tiempo logarítm
 ![BÚSQUEDA BINARIA](https://programacionpython80889555.files.wordpress.com/2021/12/ejemplo.png)
 
 ## Código base
--  [Busqueda binaria](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 4/Busqueda_binaria/binarySearch.cpp) - _C++_
--  [Primer Mayor](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 4/Busqueda_binaria/primerMayor.cpp) - _C++_
--  [Primer Menor](CLionProjects/AlgoritmicaII2022/Contenido/Capitulo 4/Busqueda_binaria/primeroMenor.cpp) - _C++_
+-  [Búsqueda binaria](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%204/Busqueda_binaria/binarySearch.cpp) - _C++_
+-  [Primer Mayor](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%204/Busqueda_binaria/primerMayor.cpp) - _C++_
+-  [Primer Menor](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%204/Busqueda_binaria/primeroMenor.cpp) - _C++_
