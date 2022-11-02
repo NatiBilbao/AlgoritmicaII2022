@@ -7,4 +7,4 @@ posición en el plano, determinada respecto de un sistema de coordenadas preesta
 Un vector es un ente matemático como la recta o el plano, se representa mediante un segmento de recta, orientado dentro 
 del espacio euclidiano tridimensional. Un vector queda completamente determinado en tres dimensiones por tres números.
 
-![Puntos y Vectores](file:///C:/Users/HP/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Captura%20de%20pantalla%202022-11-02%20025039.png)
+![Puntos y Vectores]()
