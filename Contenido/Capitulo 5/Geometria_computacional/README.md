@@ -5,3 +5,5 @@ de algoritmos y estructuras de datos necesarios para la solución eficiente de p
 salida de objetos geométricos.
 
 ![Geometria computacional](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Delaunay_Voronoi.svg/220px-Delaunay_Voronoi.svg.png)
+
+## Código base
