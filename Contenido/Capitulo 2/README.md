@@ -15,4 +15,4 @@ Competencias Técnicas:
 ## Contenido
 
 * [Backtracking](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Backtracking)
-* [Programacion dinamica](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica)
+* [Programación dinámica](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica)
