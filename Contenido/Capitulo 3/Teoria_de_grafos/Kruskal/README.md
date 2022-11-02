@@ -5,3 +5,7 @@ Es decir, busca un subconjunto de aristas que, formando un árbol, incluyen todo
 todas las aristas del árbol es el mínimo.
 
 ![Kruskal](https://raw.githubusercontent.com/AleS900/prueba/master/assets/kr.png)
+
+## Código base
+
+- [Kruskal](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%203/Teoria_de_grafos/Kruskal/kruskal.cpp) - _C++_

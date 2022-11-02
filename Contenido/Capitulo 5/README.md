@@ -13,3 +13,7 @@ Competencias Técnicas:
 - Uso de estructuras para representación de puntos.
 - Calculo de áreas.
 - Análisis de polígonos.
+
+## Contenido
+
+- [Geometria computacional](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional)

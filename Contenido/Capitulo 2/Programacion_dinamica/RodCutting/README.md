@@ -12,3 +12,7 @@ longitud i, dónde 1 <= i <= n, encuentre la forma óptima de cortar la
 varilla en varillas más pequeñas para maximizar las ganancias.
 
 ![ROD CUTTING](https://www.techiedelight.com/wp-content/uploads/Rod-Cutting-Problem.png)
+
+## Código base
+
+- [Rod cutting](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%202/Programacion_dinamica/RodCutting/rodCutting.cpp) - _C++_

@@ -5,30 +5,32 @@ Cada algoritmo y/o estructura de datos contiene un archivo **README** separado d
 
 # CAPITULO 1
 ## Estructuras de Datos
--  [BIT](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Estructura_de_datos/BIT)
--  [Union Find](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Estructura_de_datos/Union_Find)
--  [Segment Tree](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Estructura_de_datos/Segment_tree)
--  [Trie](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Estructura_de_datos/Trie)
+-  [BIT](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%201/Estructura_de_datos/BIT)
+-  [Union Find](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%201/Estructura_de_datos/Union_Find)
+-  [Segment Tree](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%201/Estructura_de_datos/Segment_tree)
+-  [Trie](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%201/Estructura_de_datos/Trie)
 
 # CAPITULO 2
 ## Backtracking
-- [Backtracking](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Backtracking)
+- [Backtracking](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Backtracking)
 
 ## Programación Dinámica
-- [Digit Dp](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Programacion_dinamica/DigitDp)
-- [Edit distance](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Programacion_dinamica/EditDistance)
-- [LIS](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Programacion_dinamica/LIS)
-- [Rod cutting](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Programacion_dinamica/RodCutting)
-- [Subset Sum](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Programacion_dinamica/SubsetSum)
+- [Digit Dp](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/DigitDp)
+- [Edit Distance](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/EditDistance)
+- [LIS](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/LIS)
+- [Rod Cutting](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/RodCutting)
+- [Subset Sum](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/SubsetSum)
 
 # CAPITULO 3
 ## Teoria de Grafos
-- [Floyd Warshall](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Teoria_de_grafos/FloydWarshall)
-- [Kruskal](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Teoria_de_grafos/Kruskal)
+- [Edmonds Karp](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%203/Teoria_de_grafos/Edmonds_Karp)
+- [Floyd Warshall](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%203/Teoria_de_grafos/Floyd_Warshall)
+- [Kruskal](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%203/Teoria_de_grafos/Kruskal)
+- [Prim](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%203/Teoria_de_grafos/Prim)
 
 # CAPITULO 4
 ## Búsqueda Binaria
-- [Búsqueda binaria](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Busqueda_binaria)
+- [Búsqueda Binaria](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%204/Busqueda_binaria)
 
 # CAPITULO 5
 ## Geometria computacional

@@ -13,3 +13,7 @@ Competencias Técnicas:
 - Manipulación de grafos mediante listas de adyacencia.
 - Manipulación de grafos mediante matrices de adyacencia.
 - Aplicación de Grafos en problemas cotidianos.
+
+## Contenido
+
+- [Teoria de grafos](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%203/Teoria_de_grafos)

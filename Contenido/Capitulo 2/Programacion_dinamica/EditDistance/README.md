@@ -8,3 +8,6 @@ operaciones tiene un coste unitario.
 
 ![EDIT DISTANCE](https://miro.medium.com/max/380/0*7RVOOIZd9SMbSIAV.png)
 
+## Código base
+
+- [Edit distance](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%202/Programacion_dinamica/EditDistance/editDistance.cpp) - _C++_

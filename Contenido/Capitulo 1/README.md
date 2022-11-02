@@ -10,3 +10,7 @@ Competencias Técnicas:
 
 - Calcular la complejidad en tiempo de una estructura.
 - Aplicación de estructuras de datos.
+
+## Contenido
+
+* [Estructura de datos](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%201/Estructura_de_datos)
