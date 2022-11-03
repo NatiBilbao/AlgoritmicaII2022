@@ -5,3 +5,7 @@ En ciencias de la computación, un segment tree, es una estructura de datos en l
 ## Código base
 - [Segment Tree](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%201/Estructura_de_datos/Segment_tree/segmentTree.cpp) - _C++_
 - [Segment Tree 2](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%201/Estructura_de_datos/Segment_tree/segmentTree2.cpp) - _C++_
+
+## Referencias
+- [Segment Trees - The Best Introduction in 10 mins](https://www.youtube.com/watch?v=Ic7OO3Uw6J0)
+- [Segment Tree (Implementation)](https://www.youtube.com/watch?v=2FShdqn-Oz8)
