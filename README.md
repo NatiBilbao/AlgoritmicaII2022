@@ -39,3 +39,8 @@ Cada algoritmo y/o estructura de datos contiene un archivo **README** separado d
 - [Puntos y Vectores](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Puntos_y_Vectores)
 - [Rectas y Áreas](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Rectas_y_Areas)
 - [Rectas y Segmentos](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Rectas_y_Segmentos)
+
+# Otros
+- [Pre exámenes](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Otros/Pre_examen)
+- [Problemas vjudge](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Otros/Problemas_vjudge)
+- [Tareas](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Otros/Tareas)
