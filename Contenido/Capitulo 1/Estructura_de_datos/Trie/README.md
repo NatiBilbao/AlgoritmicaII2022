@@ -8,6 +8,6 @@ Para ponerlo en palabras simples, podemos usar el Trie como un diccionario, en e
 -  [Trie con mapa](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%201/Estructura_de_datos/Trie/trie_map.cpp) - _C++_
 
 ## Referencias
-- [Vídeo tutorial](https://www.youtube.com/watch?v=AXjmTQ8LEoI)
-- [Vídeo tutorial](https://www.youtube.com/watch?v=6PX6wqDQE20)
-- [Vídeo tutorial](https://www.youtube.com/watch?v=-urNrIAQnNo)
+- [Trie Data Structure](https://www.youtube.com/watch?v=AXjmTQ8LEoI)
+- [Basics of trie](https://www.youtube.com/watch?v=6PX6wqDQE20)
+- [Trie Data Structure (EXPLAINED)](https://www.youtube.com/watch?v=-urNrIAQnNo)
