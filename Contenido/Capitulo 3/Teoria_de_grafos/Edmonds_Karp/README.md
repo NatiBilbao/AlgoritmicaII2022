@@ -12,3 +12,6 @@ Otra propiedad de este algoritmo es que el largo del camino aumentante más cort
 
 ## Código base
 - [Edmonds karp](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%203/Teoria_de_grafos/Edmonds_Karp/edmondsKarp.cpp) - _C++_
+
+## Rerefencias
+- [Edmonds Karp Max Flow Algorithm Tutorial](https://www.youtube.com/watch?v=w3Nl2XA0pxA)
