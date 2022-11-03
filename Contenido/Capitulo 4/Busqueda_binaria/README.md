@@ -10,3 +10,7 @@ La búsqueda binaria es computada en el peor de los casos en un tiempo logarítm
 -  [Búsqueda binaria](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%204/Busqueda_binaria/binarySearch.cpp) - _C++_
 -  [Primer Mayor](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%204/Busqueda_binaria/primerMayor.cpp) - _C++_
 -  [Primer Menor](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%204/Busqueda_binaria/primeroMenor.cpp) - _C++_
+
+## Referencias
+- [MÉTODO DE BÚSQUEDA BINARIO](https://www.youtube.com/watch?v=7qv1An90q2Q)
+- [BUSQUEDA BINARIA](https://www.youtube.com/watch?v=Xyy4s5zPwAM)
