@@ -10,7 +10,7 @@ Cada algoritmo y/o estructura de datos contiene un archivo **README** separado d
 -  [Segment Tree](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%201/Estructura_de_datos/Segment_tree)
 -  [Trie](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%201/Estructura_de_datos/Trie)
 
-# CAPITULO 2
+# CAPÍTULO 2
 ## Backtracking
 - [Backtracking](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Backtracking)
 
@@ -21,18 +21,18 @@ Cada algoritmo y/o estructura de datos contiene un archivo **README** separado d
 - [Rod Cutting](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/RodCutting)
 - [Subset Sum](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/SubsetSum)
 
-# CAPITULO 3
-## Teoria de Grafos
+# CAPÍTULO 3
+## Teoría de Grafos
 - [Edmonds Karp](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%203/Teoria_de_grafos/Edmonds_Karp)
 - [Floyd Warshall](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%203/Teoria_de_grafos/Floyd_Warshall)
 - [Kruskal](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%203/Teoria_de_grafos/Kruskal)
 - [Prim](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%203/Teoria_de_grafos/Prim)
 
-# CAPITULO 4
+# CAPÍTULO 4
 ## Búsqueda Binaria
 - [Búsqueda Binaria](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%204/Busqueda_binaria)
 
-# CAPITULO 5
+# CAPÍTULO 5
 ## Geometria computacional
 - [Convex Hull](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Convex_Hull)
 - [Polígonos](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Poligonos)
