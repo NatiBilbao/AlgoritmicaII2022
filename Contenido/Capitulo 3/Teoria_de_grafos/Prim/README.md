@@ -13,3 +13,7 @@ que forman dicho grafo no conexo.
 ## Código base
 
 - [Prim](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%203/Teoria_de_grafos/Prim/prim.cpp) - _C++_
+
+## Rerencias
+- [Algoritmo de Prim en 2 minutos](https://www.youtube.com/watch?v=cplfcGZmX7I)
+- [6.5 Prim's Algorithm for Minimum Spanning Tree | Data structures](https://www.youtube.com/watch?v=ZtZaR7EcI5Y)
