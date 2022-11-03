@@ -11,3 +11,8 @@ Dado un conjunto de números enteros no negativos y una suma de valores. Subset 
 ## Código base
 
 - [Subset sum](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%202/Programacion_dinamica/SubsetSum)
+
+## Referencias
+- [Subset Sum Problem Dynamic Programming](https://www.youtube.com/watch?v=s6FhG--P7z0)
+- [6.2 Sum Of Subsets Problem - Backtracking](https://www.youtube.com/watch?v=kyLxTdsT8ws)
+- [Subset Sum Problem using Dynamic Programming | Data Structures and Algorithms](https://www.youtube.com/watch?v=dJmyfFC3-3A)
