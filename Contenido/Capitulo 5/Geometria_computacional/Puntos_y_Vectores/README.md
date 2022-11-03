@@ -8,3 +8,7 @@ Un vector es un ente matemático como la recta o el plano, se representa mediant
 del espacio euclidiano tridimensional. Un vector queda completamente determinado en tres dimensiones por tres números.
 
 ![Puntos y Vectores](https://www.matesfacil.com/BAC/geometria2D/puntos/G1.png)
+
+## Código base
+- [Puntos y Vectores](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%205/Geometria_computacional/Puntos_y_Vectores/puntosYvectores.cpp) - _C++_
+- [Puntos y Vectores Operaciones](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%205/Geometria_computacional/Puntos_y_Vectores/puntosYvectoresOperaciones.cpp) - _C++_
