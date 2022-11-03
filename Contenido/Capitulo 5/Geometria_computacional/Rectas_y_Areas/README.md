@@ -8,3 +8,7 @@ matemáticas como unidades de medida denominadas unidades de superficie. El áre
 la especificación de una medida de longitud.
 
 ![Rectas y areas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIqb-IMX4DfVg9LskhyUldMg-wJ3IO0qk3g&usqp=CAU)
+
+## Código base 
+- [Intersección de Rectas](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%205/Geometria_computacional/Rectas_y_Areas/interseccionDeRectas.cpp) - _C++_
+- [Producto Escalar y Vectorial Áreas](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%205/Geometria_computacional/Rectas_y_Areas/productoEscalarYvectorialAreas.cpp) - _C++_
