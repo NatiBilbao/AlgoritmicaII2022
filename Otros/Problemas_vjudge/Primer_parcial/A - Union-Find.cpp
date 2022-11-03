@@ -1,57 +1,65 @@
 #include <bits/stdc++.h>
+#define input freopen("in.txt", "r", stdin)
+#define output freopen("out.txt", "w", stdout)
+#define MAX_SIZE 1000000
 
 using namespace std;
 
-class UnionFind {
-public:
+int parent[MAX_SIZE];
+int rango[MAX_SIZE];
 
-    UnionFind(int size) {
-        for (int i = 0; i < size; i++) {
-            parent.push_back(i);
+void init (int n){
+    for (int i=0; i<n; i++){
+        parent[i] = i;
+    }
+    for (int i=0; i<n; i++){
+        rango[i] = 0;
+    }
+}
+int find (int x){
+    if(x == parent[x]) {
+        return x;
+    }
+    else {
+        parent[x] = find(parent[x]);
+        return parent[x];
+    }
+}
+bool sameSet (int i, int j) {
+    return find (i) == find (j);
+}
+void join (int v1, int v2) {
+    if (sameSet (v1,v2))
+        return;
+    int parentV1 = find(v1), parentV2 = find (v2);
+    if (parentV1 != parentV2){
+        if(rango[parentV1]> rango[parentV2])
+            parent[parentV2] = parentV1;
+        else{
+            parent[parentV1]=parentV2;
+            if(rango[parentV1] == rango[parentV1]) rango[parentV1]++;
         }
     }
+}
+int main () {
 
-    int get_set(int n) {
-        if (parent[n] == n) return n;
+    int N, Q, a, b;
+    char c;
 
-        int res = get_set(parent[n]);
-        parent[n] = res;
+    scanf("%d%d", &N, &Q);
 
-        return res;
-    }
-
-    bool is_same_set(int n, int m) {
-        return get_set(n) == get_set(m);
-    }
-
-    void join_set(int n, int m) {
-        int set_of_n = get_set(n);
-        parent[set_of_n] = get_set(m);
-    }
-
-private:
-    vector<int> parent;
-};
-
-int main() {
-
-    int n, m;
-    scanf("%d %d\n", &n, &m);
-
-    UnionFind unionFind(n);
-
-    for (int i = 0; i < m; i++) {
-        char optiones;
-        int a, b;
-
-        scanf("%c %d %d\n", &optiones, &a, &b);
-
-        if (optiones == '?') {
-            printf("%s\n", (unionFind.is_same_set(a, b) ? "yes" : "no"));
-        } else {
-            unionFind.join_set(a, b);
+    init (N);
+    for (int i=0; i < Q; i++){
+        scanf(" %C%d%d", &c, &a, &b);
+        if(c =='='){
+            join (a, b);
+        }
+        else{
+            if(sameSet (a, b))
+                printf("yes\n");
+            else
+                printf("no\n");
         }
     }
-
     return 0;
 }
