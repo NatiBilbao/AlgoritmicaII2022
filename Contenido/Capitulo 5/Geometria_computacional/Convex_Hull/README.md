@@ -13,3 +13,8 @@ estirada que los encierra a todos. Cuando se libere la banda elástica tomará l
 
 ## Código base
 - [Convex Hull](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%205/Geometria_computacional/Convex_Hull/convexHull.cpp) - _C++_
+
+## Referencias
+- [Convex Hull Jarvis March(Gift wrapping algorithm)](https://www.youtube.com/watch?v=Vu84lmMzP2o)
+- [Convex Hull: Starting with graph algorithms for interviews](https://www.youtube.com/watch?v=UUCKvHTP4Gg)
+- [Convex Hull Algorithms](https://www.youtube.com/watch?v=fTqPVjy0rzU)
