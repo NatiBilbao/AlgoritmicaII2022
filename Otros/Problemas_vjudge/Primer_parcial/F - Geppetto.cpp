@@ -1,43 +1,42 @@
 #include <bits/stdc++.h>
-#define endl "\n"
+#define input freopen("in.txt", "r", stdin)
+#define output freopen("out.txt", "w", stdout)
 
 using namespace std;
 
-int main() {
+int n, m;
+int a, b;
+set<pair<int,int>> s;
+int main(){
 
-    int a, b;
-
-    while (cin >> a >> b) {
-
-        set<pair<int, int>> s;
-
-        int x, y;
-        for (int i = 0; i < b; i++) {
-            cin >> x >> y;
-            s.insert({max(x, y) - 1, min(x, y) - 1});
+    cin >> n >> m;
+    for (int i=0;i<m;i++){
+        cin >> a >> b;
+        a--; b--;
+        if (a > b){
+            swap(a,b);
         }
-
-        int p = 1;
-        for (int i = 0; i < a; i++) p *= 2;
-
-        int res = 0;
-
-        for (int i = 0; i < p; i++) {
-            bool bn = true;
-
-            for (auto ss : s) {
-                if (i & (int)pow(2, ss.first) && i & (int)pow(2, ss.second)) {
-                    bn = false;
-                    break;
-                }
-            }
-
-            if (bn) {
-                res++;
-            }
-        }
-        cout << res << endl;
+        s.insert(make_pair(a,b));
     }
 
-    return 0;
+    int total_valid = 0;
+    for (int bm=0; bm<(1<<n); bm++){
+        bool valid = true;
+        for (auto p: s){
+            a = p.first;
+            b = p.second;
+            bool both_on_pizza = ((bm & (1<<a)) && (bm &(1<<b)) );
+
+            if (both_on_pizza){
+                valid = false;
+                break;
+            }
+
+            if (!valid)break;
+        }
+
+        if(valid)total_valid++;
+    }
+
+    cout << total_valid << endl;
 }
