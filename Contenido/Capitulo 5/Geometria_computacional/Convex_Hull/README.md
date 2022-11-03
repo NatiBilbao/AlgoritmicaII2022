@@ -10,3 +10,6 @@ Una forma intuitiva de ver la envolvente convexa de un conjunto de puntos en el 
 estirada que los encierra a todos. Cuando se libere la banda elástica tomará la forma de la envolvente convexa. 
 
 ![Convex hull](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ConvexClosure.svg/220px-ConvexClosure.svg.png)
+
+## Código base
+- [Convex Hull](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%205/Geometria_computacional/Convex_Hull/convexHull.cpp) - _C++_
