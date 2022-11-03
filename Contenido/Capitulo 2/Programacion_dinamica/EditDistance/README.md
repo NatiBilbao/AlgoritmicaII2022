@@ -11,3 +11,6 @@ operaciones tiene un coste unitario.
 ## Código base
 
 - [Edit distance](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%202/Programacion_dinamica/EditDistance/editDistance.cpp) - _C++_
+
+## Referencias
+- [Editar distancia entre 2 cadenas | El algoritmo de distancia de Levenshtein + código](https://www.youtube.com/watch?v=Dd_NgYVOdLk)

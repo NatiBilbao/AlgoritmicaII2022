@@ -4,3 +4,8 @@ Algunas ventajas sobre el Segment tree son el espacio, ya que utiliza mucho meno
 ![BIT](https://community.topcoder.com/i/education/binaryIndexedTrees/bitval.gif)
 ## Código base
 -  [BIT](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%201/Estructura_de_datos/BIT/bit.cpp) - _C++_
+
+## Referencias
+- [Fenwick Tree / Binary Indexed Tree](https://www.youtube.com/watch?v=WbafSgetDDk)
+- [Binary Indexed Trees / Fenwick Trees made easy | Part 1](https://www.youtube.com/watch?v=DPiY9wFxGIw)
+- [TC-ARG: Fenwick Tree ( BIT )](https://www.youtube.com/watch?v=2VLGbWcGMq0)

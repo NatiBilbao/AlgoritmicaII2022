@@ -44,5 +44,3 @@ Cada algorítmo y/o estructura de datos contiene un archivo **README** separado 
 - [Pre exámenes](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Otros/Pre_examen)
 - [Problemas vjudge](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Otros/Problemas_vjudge)
 - [Tareas](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Otros/Tareas)
-
-# Referencias

@@ -16,3 +16,6 @@ varilla en varillas más pequeñas para maximizar las ganancias.
 ## Código base
 
 - [Rod cutting](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%202/Programacion_dinamica/RodCutting/rodCutting.cpp) - _C++_
+
+## Referencias
+- [Clase 12 Programación Dinámica - Rod Cutting Problem](https://www.youtube.com/watch?v=xq0OWo90OeQ)

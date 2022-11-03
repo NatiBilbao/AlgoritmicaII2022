@@ -9,3 +9,7 @@ todas las aristas del árbol es el mínimo.
 ## Código base
 
 - [Kruskal](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%203/Teoria_de_grafos/Kruskal/kruskal.cpp) - _C++_
+
+## REferencias
+- [Algoritmo de Kruskal en 2 minutos](https://www.youtube.com/watch?v=71UQH7Pr9kU)
+- [Kruskal's algorithm Minimum Spanning Tree Graph Algorithm](https://www.youtube.com/watch?v=fAuF0EuZVCk)
