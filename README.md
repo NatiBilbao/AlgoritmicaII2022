@@ -33,7 +33,7 @@ Cada algorítmo y/o estructura de datos contiene un archivo **README** separado 
 - [Búsqueda Binaria](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%204/Busqueda_binaria)
 
 # CAPÍTULO 5
-## Geometria computacional
+## Geometría computacional
 - [Convex Hull](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Convex_Hull)
 - [Polígonos](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Poligonos)
 - [Puntos y Vectores](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Contenido/Capitulo%205/Geometria_computacional/Puntos_y_Vectores)
@@ -44,3 +44,5 @@ Cada algorítmo y/o estructura de datos contiene un archivo **README** separado 
 - [Pre exámenes](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Otros/Pre_examen)
 - [Problemas vjudge](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Otros/Problemas_vjudge)
 - [Tareas](https://github.com/NatiBilbao/AlgoritmicaII2022/tree/main/Otros/Tareas)
+
+# Referencias
