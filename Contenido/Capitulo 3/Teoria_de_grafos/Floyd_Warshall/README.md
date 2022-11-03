@@ -12,3 +12,6 @@ presente en el graph. Si el graph contiene un peso negativo ciclo, hay que repor
 ## Código base
 
 - [Floyd warshall](https://github.com/NatiBilbao/AlgoritmicaII2022/blob/main/Contenido/Capitulo%203/Teoria_de_grafos/Floyd_Warshall/floydWarshall.cpp) - _C++_
+
+## Referencias
+- [algoritmo de Floyd-Warshall](https://www.youtube.com/watch?v=h-nmexY9gtA)
