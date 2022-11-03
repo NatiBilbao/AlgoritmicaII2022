@@ -1,43 +1,54 @@
-#include<cstdio>
-#include<cstring>
+#include <bits/stdc++.h>
+#define input freopen("in.txt", "r", stdin)
+#define output freopen("out.txt", "w", stdout)
 using namespace std;
 
-int a[100005],b[100005],c[300005],t,n,m,x,offset;
+const int MAXN = 200000;
 
-int ultimoBIT(int y){
-    return y&(-y);
-}
-int calculo(int y){
-    int sum=0;
-    while(y>0){
-        sum+=c[y];
-        y-= ultimoBIT(y);
-    }
-    return sum;
-}
-void insertar(int y, int z){
-    while(y<=offset){
-        c[y]+=z;
-        y+= ultimoBIT(y);
+int BIT[MAXN], positions[MAXN];
+
+void add(int index, int n) {
+    for (int i = index; i < MAXN; i += i & -i) {
+        BIT[i] += n;
     }
 }
-int main(){
-    scanf("%d",&t);
-    while(t--){
-        scanf("%d %d",&n,&m);
-        offset = n+100000;
-        memset(a,0,sizeof(a));
-        memset(c,0,sizeof(c));
-        for(int i=1;i<=n;i++) a[i]=i+100000;
-        for(int i=100002;i<=offset;i++) insertar(i, 1);
-        for(int i=1;i<=m;i++){
-            scanf("%d",&x);
-            b[i]= calculo(a[x]);
-            insertar(a[x], -1);
-            insertar(100002 - i, 1);
-            a[x]=100001-i;
+
+int sum(int index) {
+    int removedMovie = 0;
+    for (int i = index; i; i -= i & -i) {
+        removedMovie += BIT[i];
+    }
+    return removedMovie;
+}
+
+int main() {
+    input;
+    int numberOfOperations;
+    cin>>numberOfOperations;
+    while (numberOfOperations --) {
+        int totalMovies, moviesToRemove;
+        cin>>totalMovies>>moviesToRemove;
+        fill(BIT + 1, BIT + 1 + totalMovies + moviesToRemove, 0);
+        for (int i = 1; i <= totalMovies; ++ i) {
+            positions[i] = totalMovies - i + 1;
+            add(i, 1);
         }
-        for(int i=1;i<m;i++) printf("%d ",b[i]);
-        printf("%d\n",b[m]);
+        int cnt = totalMovies;
+        for (int i = 0; i < moviesToRemove; ++ i) {
+            int movie;
+            cin>>movie;
+            int removedMovie = sum(positions[movie]);
+            if(i == moviesToRemove-1){
+                cout<<totalMovies - removedMovie;
+            } else{
+                cout<<totalMovies - removedMovie<<" ";
+            }
+
+            add(positions[movie], -1);
+            positions[movie] = ++ cnt;
+            add(positions[movie], 1);
+        }
+        cout<<""<<endl;
     }
+    return 0;
 }
